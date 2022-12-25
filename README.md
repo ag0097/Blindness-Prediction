@@ -12,6 +12,6 @@ The dataset has noise in both the images and labels. Images may contain artifact
 
 <h3>Dataset Link</h3>
 Below is the link for dataset: <br>
-[https://www.kaggle.com/competitions/aptos2019-blindness-detection]
+https://www.kaggle.com/competitions/aptos2019-blindness-detection
 
 <h3>Approach</h3>
